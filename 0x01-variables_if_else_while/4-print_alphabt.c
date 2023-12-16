@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main - Entry point
+*main - Print all the letters except q and e
 *
 *Return: Always 0 (success)
 */
@@ -16,6 +16,6 @@ continue;
 putchar(alpha_lower);
 }
 
-printf("\n");
+putchar('\n');
 return (0);
 }
