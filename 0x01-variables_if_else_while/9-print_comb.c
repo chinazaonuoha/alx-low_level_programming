@@ -11,7 +11,7 @@ int num_ten;
 for (num_ten = 48; num_ten <= 57; num_ten++)
 {
 putchar(num_ten);
-if(num_ten != 57)
+if (num_ten != 57)
 {
 putchar(',');
 putchar(' ');
