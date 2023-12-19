@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *print_sign - check for alphabet, in lowercase
+ *print_sign - print the sign of a number
  *@n: integer param
  *
  *Return: 1(true) or 0(false)
