@@ -12,3 +12,6 @@ int _islower(int c);
 
 /** _isalpha declaration*/
 int _isalpha(int c);
+
+/** print_sign declaration*/
+int print_sign(int n);
