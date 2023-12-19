@@ -9,3 +9,6 @@ void print_alphabet_x10(void);
 
 /** _islower declaration*/
 int _islower(int c);
+
+/** _isalpha declaration*/
+int _isalpha(int c);
