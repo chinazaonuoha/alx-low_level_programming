@@ -6,3 +6,6 @@ void print_alphabet(void);
 
 /** print_alphabet_x10 declaration */ 
 void print_alphabet_x10(void);
+
+/** _islower declaration*/
+int _islower(int c);
