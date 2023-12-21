@@ -18,3 +18,12 @@ int print_sign(int n);
 
 /** _abs declaration*/
 int _abs(int);
+
+/** print_last_digit declaration*/
+int print_last_digit(int);
+
+/** print_times_table declaration*/
+void print_times_table(int n);
+
+/** add declaration*/
+int add(int, int);
