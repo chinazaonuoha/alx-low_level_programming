@@ -27,3 +27,6 @@ void print_times_table(int n);
 
 /** add declaration*/
 int add(int, int);
+
+/** jack_bauer declaration*/
+void jack_bauer(void);
