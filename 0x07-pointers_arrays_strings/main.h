@@ -7,3 +7,5 @@ char *_memcpy(char *dest, char *src, unsigned int n);
 char *_strchr(char *s, char c);
 /** set_string declaration*/
 void set_string(char **s, char *to);
+/** print_diagsums declaration*/
+void print_diagsums(int *a, int size);
