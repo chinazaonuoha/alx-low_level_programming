@@ -1,5 +1,5 @@
 /**
- *set_char - change pointer value to a character
+ *set_string - change pointer value to a character
  *@s: a double pointer parameter
  *@to: a character pointer
  */
