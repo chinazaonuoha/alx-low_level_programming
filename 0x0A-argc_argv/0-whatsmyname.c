@@ -13,5 +13,5 @@ if (argc > 0)
 {
 printf("%s\n", argv[0]);
 }
-return (1);
+return (0);
 }
