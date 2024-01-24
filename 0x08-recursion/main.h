@@ -11,3 +11,7 @@ int _strlen_recursion(char *s);
 int factorial(int n);
 /** _pow_recursion declaration */
 int _pow_recursion(int x, int y);
+/** is_palindrome declaration */
+int is_palindrome(char *s);
+/** wildcmp declaration */
+int wildcmp(char *s1, char *s2);
