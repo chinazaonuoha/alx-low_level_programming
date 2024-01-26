@@ -6,9 +6,9 @@
   * Ongoing second chance project - started Jan 25, 2024 6:00 AM, must end by Jan 27, 2024 6:00 AM
     - [x] An auto review will be launched at the deadline
 
-## In a nutshell… ##
-* ## Auto QA review: ## 0.0/33 mandatory
-* ## Altogether:  0.0% ##
+# In a nutshell… #
+* # Auto QA review: # 0.0/33 mandatory
+* # Altogether:  0.0% #
      * Mandatory: 0.0%
      * Optional: no optional tasks
 
@@ -25,7 +25,7 @@
 
 
 # Learning Objectives #
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), ## without the help of Google: ##
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), without the help of Google:
 
 # General #
 * What are variadic functions
