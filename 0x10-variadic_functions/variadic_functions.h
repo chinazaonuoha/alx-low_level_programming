@@ -1,3 +1,5 @@
+#ifndef VARIADIC_FUNCTIONS_H
+#define VARIADIC_FUNCTIONS_H
 /**_putchar declaration*/
 int _putchar(char c);
 
@@ -11,3 +13,4 @@ void print_numbers(const char *separator, const unsigned int n, ...);
 void print_strings(const char *separator, const unsigned int n, ...);
 /**print_all declaration*/
 void print_all(const char * const format, ...);
+#endif
