@@ -5,3 +5,5 @@ int _putchar(char c);
 int _isupper(int c);
 /** _isdigit declaration*/
 int _isdigit(int c);
+/** mul declaration*/
+int mul(int a, int b);
