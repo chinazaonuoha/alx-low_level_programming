@@ -2,7 +2,7 @@
 
 /**
  *_isupper - check uppercase letter
- *@c: int 
+ *@c: int
  *
  *Return: 1 or 0
  */
