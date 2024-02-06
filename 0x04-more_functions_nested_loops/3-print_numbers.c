@@ -2,9 +2,8 @@
 
 /**
  *print_numbers - checks for a digit (0 through 9).
- *@c: int
  *
- *Return: 1 or 0
+ *Return: Nothing
  */
 void print_numbers(void)
 {
