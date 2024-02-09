@@ -11,3 +11,5 @@ int mul(int a, int b);
 void print_numbers(void);
 /** print_most_numbers declaration*/
 void print_most_numbers(void);
+/** more_numbers declaration*/
+void more_numbers(void);
