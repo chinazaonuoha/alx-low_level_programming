@@ -13,3 +13,5 @@ void print_numbers(void);
 void print_most_numbers(void);
 /** more_numbers declaration*/
 void more_numbers(void);
+/** print_line declaration*/
+void print_line(int n);
