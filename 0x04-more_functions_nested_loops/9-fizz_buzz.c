@@ -20,7 +20,7 @@ else if (min % 3 == 0)
 {
 printf("Fizz ");
 }
-else if (min % 3 == 0)
+else if (min % 5 == 0)
 {
 printf("Buzz ");
 }
